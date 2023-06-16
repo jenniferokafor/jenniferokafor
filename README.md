@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jennifer
-### A Frontend Developer passionate about building for the best user experience</h3>
+### A Frontend Developer passionate about building for the best user experience.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align: left">
