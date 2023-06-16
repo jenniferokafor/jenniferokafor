@@ -12,4 +12,6 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🌮 [Replace findOne Default ID with a Custom UID in Strapi v4](https://jen.hashnode.dev/replace-findone-default-id-with-a-custom-uid-in-strapi-v4)
+ - 💯 [How to Add Animated Illustrations to Your React App with Lottie-Web](https://jen.hashnode.dev/how-to-add-animated-illustrations-to-your-react-app-with-lottie-web)
+ - 🔥 [How to Pass Data from Child to Parent Component in React &lpar;JavaScript and TypeScript Examples&rpar;](https://jen.hashnode.dev/how-to-pass-data-from-child-to-parent-component-in-react-javascript-and-typescript-examples)<!-- BLOGPOSTS:END -->
