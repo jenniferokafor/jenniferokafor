@@ -11,11 +11,10 @@
 
 ### About Me
 - - -
-- 🔭 I’m working on a React-based collaborative code editor web app to learn how to use WebSockets.
 - 🌱 I’m learning React Native to build mobile apps.
 - 👯 I’m looking to collaborate on an Open Source project to which I can contribute with my skillset.
 - 💬 Ask me about JavaScript, Typescript, React, and Web Accessibility.
-- ⚡ Fun fact: When I'm not coding, you'll find me reading fiction or cooking one of my comfort meals.
+- ⚡ Fun fact: When I'm not coding, you'll find me reading historical fiction or cooking one of my comfort meals.
 
 
 ### Languages and Tools:
