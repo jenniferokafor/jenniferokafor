@@ -11,7 +11,6 @@
 
 ### About Me
 - - -
-- 🌱 I’m learning React Native to build mobile apps.
 - 👯 I’m looking to collaborate on an Open Source project to which I can contribute with my skillset.
 - 💬 Ask me about JavaScript, Typescript, React, and Web Accessibility.
 - ⚡ Fun fact: When I'm not coding, you'll find me reading historical fiction or cooking one of my comfort meals.
@@ -38,9 +37,3 @@
 
 [//]: # (<img src="" alt="" />)
 </div>
-
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - 🌮 [Replace findOne Default ID with a Custom UID in Strapi v4](https://jen.hashnode.dev/replace-findone-default-id-with-a-custom-uid-in-strapi-v4)
- - 💯 [How to Add Animated Illustrations to Your React App with Lottie-Web](https://jen.hashnode.dev/how-to-add-animated-illustrations-to-your-react-app-with-lottie-web)
- - 🔥 [How to Pass Data from Child to Parent Component in React &lpar;JavaScript and TypeScript Examples&rpar;](https://jen.hashnode.dev/how-to-pass-data-from-child-to-parent-component-in-react-javascript-and-typescript-examples)<!-- BLOGPOSTS:END -->
